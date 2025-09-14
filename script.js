@@ -12,3 +12,8 @@ function countdowntimer(){
 
 }
 setInterval(countdowntimer, 1000);
+
+
+function donothing{
+
+}
